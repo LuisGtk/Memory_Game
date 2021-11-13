@@ -1,7 +1,7 @@
 Luis's Memory Game
 Description:
 
-This memory game is simple and fun for any ageone to play and enjoy. Once the gam starts It's up to you to match all the cards with their respective other, If you match it up with a different card then btoh flip back on their face and you have to try again.
+This memory game is simple and fun for any anyone to play and enjoy. Once the game starts It's up to you to match all the cards with their respective other, If you match it up with a different card then btoh flip back on their face and you have to try again.
 
 Technologies Used:
 
