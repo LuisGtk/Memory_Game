@@ -31,7 +31,7 @@ function checkForMatch() {
   //checking if both cards have the same class name
   let isMatch = firstCard.dataset.titles === secondCard.dataset.titles;
   //makes it so the flipped cards stay flipped and dont "unflip" after the setTimeout
-  isMatch ? disableCards() : unflipCards();
+  isMatch ? disableCards() : unflipCards()
 }
 //makes it so that the already flipped cards dont flip back and cannot be clicked again
 function disableCards() {
